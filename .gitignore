@@ -1,8 +1,3 @@
-# Ignorer les fichiers de base de WordPress
-/wordpress/
-/wp-admin/
-/wp-includes/
-
 # Ignorer le fichier de configuration local
 wp-config.php
 
