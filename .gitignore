@@ -10,10 +10,6 @@ wp-config.php
 /wp-content/backup-*/ 
 /wp-content/uploads/   # Optionnel, si tu ne veux pas versionner les fichiers téléversés
 
-# Ignorer les répertoires de plugins et thèmes spécifiques, si nécessaire
-/wp-content/plugins/
-/wp-content/themes/
-
 # Ignorer les fichiers générés par l'IDE ou des environnements locaux
 .idea/
 .vscode/
